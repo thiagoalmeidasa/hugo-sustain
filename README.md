@@ -1,4 +1,7 @@
-![Sustain - Logo][logo]
+<p align="center">
+  <a href="images/hugo-sustain-logo.png"><img src="images/hugo-sustain-logo.png" width="440" /></a>
+  <a href="images/hugo-vitae-logo.png"><img src="images/hugo-vitae-logo.png" width="440" /></a>
+</p>
 
 ## Table of Contents
 
@@ -15,7 +18,11 @@
 
 ********************
 
-![Sustain Screen](images/screenshot.png) ![Vitae Screen](images/screenshot-vitae.png)
+<p align="center">
+  <a href="images/screenshot.png"><img src="images/screenshot.png" height="275" /></a>
+  <span style="background-color: rgb(225, 228, 232);height:275px"></span>
+  <a href="images/screenshot-vitae.png"><img src="images/screenshot-vitae.png" height="275" /></a>
+</p>
 
 ********************
 <p align="center"><b><a href="https://anirbanmu.com/hugo-sustain-vitae/">Sustain-vitae Live Demo</a></b></p>
@@ -95,7 +102,11 @@ To add Google Analytics, simply sign up to [Google Analytics][g-analytics] to ob
 
 ## About
 
-This is a port of the Jekyll theme [Sustain][sustain-jekyll] by [Fábio Madeira][sustain-author]. It supports most of the features of the original theme.
+This fork is a combined theme from [hugo-sustain](https://github.com/nurlansu/hugo-sustain) & [hugo-vitae](https://github.com/nurlansu/hugo-vitae).
+
+hugo-sustain is a port the Jekyll theme [Sustain][sustain-jekyll] by [Fábio Madeira][sustain-author].
+
+hugo-vitae is port of the Jekyll theme [Vitae][vitae-jekyll] by [Fábio Madeira][vitae-author].
 
 ## Contributing
 
@@ -127,7 +138,6 @@ Pull requests, bug fixes, and new features are welcome!
 
 
 
-[logo]: https://i.nurlan.co/sustain.png
 [bootstrap]: https://getbootstrap.com/
 [hugo]: https://gohugo.io/
 [gh-pages]: https://pages.github.com/
