@@ -148,3 +148,5 @@ Pull requests, bug fixes, and new features are welcome!
 [g-analytics]: https://www.google.com/analytics/
 [sustain-jekyll]: https://github.com/biomadeira/sustain/
 [sustain-author]: https://github.com/biomadeira/
+[vitae-jekyll]: https://github.com/biomadeira/vitae/
+[vitae-author]: https://github.com/biomadeira/
