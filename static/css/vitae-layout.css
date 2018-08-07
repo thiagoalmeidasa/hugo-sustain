@@ -13,17 +13,8 @@
     margin-top: 50px;
 }
 
-a {
-    text-decoration: none;
-    /*background-color: rgba(39, 168, 34, 0.06);*/
-}
-
-a:visited {
-    text-decoration: none;
-}
-
-a:hover, a:focus {
-    color: #27A822;
+.vitae-basic a {
+    color: #6b6b6b;
 }
 
 p, address {

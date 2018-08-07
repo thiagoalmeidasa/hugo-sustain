@@ -9,7 +9,7 @@ html, body {
 
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -90,10 +90,10 @@ html, body {
 .container .text-muted {
   margin: 20px 0;
 }
-.container a {
+a {
   color: #27A822;
 }
-.container a:hover {
+a:hover {
   color: #267723;
 }
 .container p img, .img-responsive {
@@ -195,5 +195,5 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/
