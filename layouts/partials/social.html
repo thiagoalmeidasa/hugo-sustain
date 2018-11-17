@@ -4,6 +4,10 @@
       <li><a href="https://github.com/{{ .Site.Params.Social.Github }}"><i class="fa fa-github"></i></a></li>
     {{ end }}
 
+    {{ if .Site.Params.Social.Gitlab }}
+      <li><a href="https://gitlab.com/{{ .Site.Params.Social.Gitlab }}"><i class="fa fa-gitlab"></i></a></li>
+    {{ end }}
+
     {{ if .Site.Params.Social.Email }}
       <li><a href="mailto:{{ .Site.Params.Social.Email }}"><i class="fa fa-envelope"></i></a></li>
     {{ end }}
